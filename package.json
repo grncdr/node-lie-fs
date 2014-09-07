@@ -23,6 +23,7 @@
   "homepage": "https://github.com/hemanth/node-lie-fs",
   "dependencies": {
     "lie-denodify": "^0.1.2",
+    "lie": "^2.0.0",
     "an-async": "~0.1.0"
   }
 }
